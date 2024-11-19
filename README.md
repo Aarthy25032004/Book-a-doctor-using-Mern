@@ -33,3 +33,4 @@ This project is a full-stack web application built using the MERN stack (MongoDB
 3. Explore the features and functionality as needed.
 
 ## Video link:
+https://drive.google.com/file/d/1zOI2DDNVF494Vw5W6YRALq37Cs4CWljV/view?usp=drive_link
